@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0;
+    font-family: 'Kalam', cursive;
+    background-color: #1f89a6;
+
+}
+
+#start, #number_of_objects, #status{
+    font-size: 25px;
+    font-family: 'Aboreto', cursive;
+
+    
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    background-color: #1f89a6;
+    line-height: 3;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Monofett', cursive;
+
+}
+
